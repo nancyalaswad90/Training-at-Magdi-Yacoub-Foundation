@@ -11,3 +11,12 @@ The **Training Program at Magdi Yacoub Foundation** in **Computer Science** prov
 - **Research Collaboration**: Working alongside experts in medicine and technology to develop innovative healthcare solutions.
 
 This program is an excellent opportunity for computer science students and professionals interested in contributing to the medical field through technology.
+
+
+================================================================================
+
+
+> # Egypt Creativa
+
+
+- [Road map](https://roadmap.sh/)
