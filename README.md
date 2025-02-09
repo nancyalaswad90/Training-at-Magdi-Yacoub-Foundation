@@ -1,7 +1,8 @@
 
-### **Description About Training at Magdi Yacoub Foundation – Computer Science**  
+> ## **Description About Training at Magdi Yacoub Foundation – Computer Science**  
 
 The **Training Program at Magdi Yacoub Foundation** in **Computer Science** provides participants with hands-on experience in applying computational techniques to healthcare and medical research. The program is designed to integrate cutting-edge technology with medical advancements, fostering innovation in the healthcare sector.
+
 
 #### **Key Aspects of the Training:**
 - **Data Analysis & Machine Learning**: Applying AI and data science to analyze medical data and optimize patient care.
