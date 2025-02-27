@@ -1,4 +1,6 @@
 
+https://www.linkedin.com/posts/nancy-al-aswad-b001b4124_magdiyacoub-leadership-inspiration-activity-7300206909213540352-b-uH?utm_source=share&utm_medium=member_android&rcm=ACoAAB6kKDABwjQpJtHzA4MwCLRNaOLN7ZAvmag
+
 > ## **Description About Training at Magdi Yacoub Foundation – Data Analysis & Machine Learning**  
 
 The **Training Program at Magdi Yacoub Foundation** in **Computer Science** provides participants with hands-on experience in applying computational techniques to healthcare and medical research. The program is designed to integrate cutting-edge technology with medical advancements, fostering innovation in the healthcare sector.
