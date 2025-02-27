@@ -1,7 +1,7 @@
 
 
 
-> ## **Description About Training at [Magdi Yacoub Foundation – Data Analysis & Machine Learning](https://www.linkedin.com/posts/nancy-al-aswad-b001b4124_magdiyacoub-leadership-inspiration-activity-7300206909213540352-b-uH?utm_source=share&utm_medium=member_android&rcm=ACoAAB6kKDABwjQpJtHzA4MwCLRNaOLN7ZAvmag)**  
+> ## **Description About Training at [Magdi Yacoub Foundation – Data Analysis & Machine Learning](https://www.linkedin.com/posts/nancy-al-aswad-b001b4124_magdiyacoub-leadership-inspiration-activity-7300206909213540352-b-uH?utm_source=share&utm_medium=member_android&rcm=ACoAAB6kKDABwjQpJtHzA4MwCLRNaOLN7ZAvmag) in Feb- 2025**  
 
 .
 
