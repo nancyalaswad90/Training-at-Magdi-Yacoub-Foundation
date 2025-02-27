@@ -4,7 +4,12 @@
 > ## **Description About Training at [Magdi Yacoub Foundation – Data Analysis & Machine Learning](https://www.linkedin.com/posts/nancy-al-aswad-b001b4124_magdiyacoub-leadership-inspiration-activity-7300206909213540352-b-uH?utm_source=share&utm_medium=member_android&rcm=ACoAAB6kKDABwjQpJtHzA4MwCLRNaOLN7ZAvmag)**  
 
 .
+
+
+
+
 ![image](https://github.com/user-attachments/assets/87eaf00b-662d-4840-aaa9-c3d28df8120c)
+
 
 
 .
