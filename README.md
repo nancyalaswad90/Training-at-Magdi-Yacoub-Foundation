@@ -40,4 +40,4 @@ This program is an excellent opportunity for computer science students and profe
 > # Google MemberShip
 
 - [Women Techmakers member](https://developers.google.com/profile/u/116039305746026612185?utm_source=developers.google.com)
-- [Google Developer Groups](https://gdg.advocu.com/home/applications/form?communityslug=gdg) for support  email General ` GDG ` Program Support (gdg-support@google.com)
+- [Google Developer Groups](https://gdg.advocu.com/home/applications/form?communityslug=gdg) for support  email General ` GDG ` [Program Support ](gdg-support@google.com)
