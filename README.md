@@ -50,5 +50,5 @@ This program is an excellent opportunity for computer science students and profe
   
 - [ Slido ](https://www.slido.com/)  : The easiest way to make your meetings interactive.
   
-- [ Bioinformatics scientist] (https://www.facebook.com/share/p/15qKBRoVih/)
+- [ Bioinformatics scientist](https://www.facebook.com/share/p/15qKBRoVih/)
 
