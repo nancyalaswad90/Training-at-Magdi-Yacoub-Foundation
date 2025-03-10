@@ -47,5 +47,5 @@ This program is an excellent opportunity for computer science students and profe
 - [Networking Basics ](https://www.netacad.com/courses/networking-basics?courseLang=en-US)
   
 - [Cisco Networking Academy. Build your skills today, online. It’s Free](https://www.cisco.com/c/m/en_sg/partners/cisco-networking-academy/index.html)
-- 
+- [ Slido ](https://www.slido.com/)  : The easiest way to make your meetings interactive
 
