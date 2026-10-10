@@ -18,6 +18,12 @@
 
 .
 
+
+<img width="1280" height="929" alt="تدريب مجدي يعقوب" src="https://github.com/user-attachments/assets/9a124476-efe9-4aec-959b-671cfe46e2c6" />
+
+
+.
+
 The **Training Program at Magdi Yacoub Foundation** in **Computer Science** provides participants with hands-on experience in applying computational techniques to healthcare and medical research. The program is designed to integrate cutting-edge technology with medical advancements, fostering innovation in the healthcare sector.
 
 
