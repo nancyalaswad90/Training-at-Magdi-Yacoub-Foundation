@@ -14,6 +14,10 @@
 
 .
 
+<img width="2056" height="765" alt="Data-Driven Academic Tech Portfolio Banner" src="https://github.com/user-attachments/assets/d7bab841-a18f-4ae3-9043-c1a43b1e31d9" />
+
+.
+
 The **Training Program at Magdi Yacoub Foundation** in **Computer Science** provides participants with hands-on experience in applying computational techniques to healthcare and medical research. The program is designed to integrate cutting-edge technology with medical advancements, fostering innovation in the healthcare sector.
 
 
